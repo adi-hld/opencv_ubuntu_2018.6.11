@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1528961260 source:/home/adi/桌面/opencv/video_SGBM/function.cpp
+	<iostream>
+	<opencv2/core/core.hpp>
+	<opencv2/calib3d/calib3d.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/contrib/contrib.hpp>
+	<math.h>
+	"function.h"
+
+1528961202 /home/adi/桌面/opencv/video_SGBM/function.h
+	<iostream>
+	<opencv2/core/core.hpp>
+	<opencv2/calib3d/calib3d.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/contrib/contrib.hpp>
+
+1528960998 source:/home/adi/桌面/opencv/video_SGBM/main.cpp
+	<iostream>
+	<opencv2/core/core.hpp>
+	<opencv2/calib3d/calib3d.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/contrib/contrib.hpp>
+	"function.h"
+
