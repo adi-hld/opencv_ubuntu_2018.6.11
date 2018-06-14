@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1528723234 source:/home/adi/桌面/opencv/get_two_eyes_img/main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<cstdlib>
+
