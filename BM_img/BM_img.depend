@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1528856569 source:/home/adi/桌面/opencv/BM_img/main.cpp
+	<iostream>
+	<fstream>
+	<opencv2/core/core.hpp>
+	<opencv2/calib3d/calib3d.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/contrib/contrib.hpp>
+	<math.h>
+
